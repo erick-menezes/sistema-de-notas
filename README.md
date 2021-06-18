@@ -1,4 +1,4 @@
-# Sistema de cadastro de notas
+<b><h1 align="center">Sistema de cadastro de notas</h1></b>
 
 Um sistema de cadastro de notas desenvolvido em Python utilizando as bibliotecas:
 
