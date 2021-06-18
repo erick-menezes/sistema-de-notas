@@ -7,6 +7,6 @@ Um sistema de cadastro de notas desenvolvido em Python utilizando as bibliotecas
 
 ![image](https://user-images.githubusercontent.com/57919268/122500241-caeef980-cfc8-11eb-82a1-f87379ec62f0.png)
 
-**Obs: Possui as interações necessárias, porém não está 100% completo.**
+O sistema de pontuação foi realizado com base no da Universidade Estácio de Sá.
 
-**Obs²: O sistema de pontuação foi realizado com base no da Universidade Estácio de Sá.**
+**Obs: Possui as interações necessárias, porém não está 100% completo.**
